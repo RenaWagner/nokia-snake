@@ -1,0 +1,25 @@
+.grid
+{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 5px solid pink;
+}
+
+.grid div
+{
+    width: 30px;
+    height: 30px;
+
+}
+
+.snake
+{
+    background-color: orange;
+}
+
+.apple
+{
+    background-color: red;
+}
